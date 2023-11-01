@@ -1,0 +1,84 @@
+// *{
+//     padding: 0;
+//     margin: 0;
+//     box-sizing: border-box;
+// }
+// footer{
+//     background-color:  #08FFFFC4;
+// }
+// .footer_container{
+//     width: 100%;
+//     padding: 70px  30px  20px ;
+// }
+
+// .socialicons{
+//     display: flex ;
+//     justify-content: center;
+// }
+// .socialicons a{
+//     text-decoration: none;
+//     padding: 10px;
+//     background-color: white;   
+     
+// }
+// .socialicons a i{
+//     font-size: 24px;
+// }
+
+// // Hover Effects on Social Media Icons
+// .socialicons a:hover{
+//     background-color: #111;
+//     transition: 0.5s ;
+// }
+// .socialicons a:hover i{ 
+//     color: white;
+//     transition: 0.5s;
+// }
+// .footer_nav{
+//     margin: 30px  0;
+// }
+// .footer_nav ul{
+//     display: flex;
+//     justify-content: center;
+//     list-style-type: none;
+// }
+// .footer_nav ul li a{
+//     color: white;
+//     margin: 20px;
+//     text-decoration: none;
+//     font-size: 1.3em;
+//     opacity: 0.7;
+//     transition: 0.5s;
+// }
+// .footer_nav ul li a:hover{
+//     opacity: 1;
+//     color: blue;
+// }
+// .footer_bottom{
+//     background-color: #000;
+//     padding: 20px;
+//     text-align: center;
+// }
+// .footer_bottom p {
+//     color: white;
+// }
+// .desginer {
+// opacity: 0.7;
+// text-transform: uppercase;
+// letter-spacing: 1px;
+// font-weight: 400;
+// margin: 8px 5px;
+// }
+
+
+// @media ( max-width: 700px )   {
+//     .footer_nav ul{
+//         flex-direction: column;
+//     }
+//     .footer_nav ul li {
+//         width: 100% ;
+//         text-align: center;
+//         margin: 10px;
+
+//     }
+// }
